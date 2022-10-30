@@ -1,16 +1,10 @@
 
-
-
-
-
-
-
 import 'dart:io';
 
 import 'package:cv_mail_maker_project/layout/home_layout.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/Skills.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/achivement.dart';
-import 'package:cv_mail_maker_project/modules/cv_formulair/add_image.dart';
+
 import 'package:cv_mail_maker_project/modules/cv_formulair/experiance.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/language.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/personal_info.dart';
@@ -18,13 +12,13 @@ import 'package:cv_mail_maker_project/modules/basic_screens/home_screene.dart';
 import 'package:cv_mail_maker_project/modules/basic_screens/saved_screene.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/qualification.dart';
 import 'package:cv_mail_maker_project/modules/cv_formulair/new_cv.dart';
-import 'package:cv_mail_maker_project/pdf.dart';
+import 'package:cv_mail_maker_project/shared/components/pdf.dart';
 import 'package:cv_mail_maker_project/shared/components/components.dart';
 import 'package:cv_mail_maker_project/shared/components/constants.dart';
-import 'package:cv_mail_maker_project/test.dart';
+
 import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:path_provider/path_provider.dart';
+
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:printing/printing.dart';

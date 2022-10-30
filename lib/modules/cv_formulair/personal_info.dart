@@ -1,6 +1,6 @@
 import 'package:cv_mail_maker_project/layout/cv_maker.dart';
 import 'package:cv_mail_maker_project/shared/components/components.dart';
-import 'package:cv_mail_maker_project/test.dart';
+
 import 'package:flutter/material.dart';
 
 class PersonalInfoScreene extends StatefulWidget {

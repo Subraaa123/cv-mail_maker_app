@@ -4,10 +4,10 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:open_file/open_file.dart';
 import 'package:pdf/widgets.dart' as pw;
-import 'package:cv_mail_maker_project/pdf.dart';
+import 'package:cv_mail_maker_project/shared/components/pdf.dart';
 import 'package:cv_mail_maker_project/shared/components/components.dart';
 import 'package:cv_mail_maker_project/shared/components/constants.dart';
-import 'package:cv_mail_maker_project/test.dart';
+
 import 'package:flutter/material.dart';
 import 'package:pdf/pdf.dart';
 import 'package:printing/printing.dart';

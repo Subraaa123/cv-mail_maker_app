@@ -2,8 +2,8 @@ import 'package:cv_mail_maker_project/layout/cv_maker.dart';
 import 'package:cv_mail_maker_project/modules/email_builder/mail_builder_screene.dart';
 import 'package:cv_mail_maker_project/shared/components/components.dart';
 import 'package:cv_mail_maker_project/shared/components/constants.dart';
-import 'package:cv_mail_maker_project/test.dart';
-import 'package:cv_mail_maker_project/test1.dart';
+
+
 import 'package:flutter/material.dart';
 import 'dart:async';
 import 'package:path/path.dart';

@@ -6,13 +6,13 @@ import 'package:cv_mail_maker_project/shared/components/components.dart';
 import 'package:cv_mail_maker_project/shared/components/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:open_file/open_file.dart';
-import 'package:path_provider/path_provider.dart';
+
 import 'package:pdf/pdf.dart';
 import 'package:pdf/widgets.dart' as pw;
 import 'package:sqflite/sqflite.dart';
 import 'package:intl/intl.dart';
 
-import '../../pdf.dart';
+import '../../shared/components/pdf.dart';
 
 class MailBuilderScreene extends StatefulWidget {
   const MailBuilderScreene({Key? key}) : super(key: key);

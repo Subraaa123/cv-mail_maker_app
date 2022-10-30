@@ -1,6 +1,7 @@
 # cv_mail_maker_project
 
 A new Flutter project.
+To help student make his owen cvs or profetional mails easy.
 
 ## Getting Started
 

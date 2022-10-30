@@ -1,4 +1,4 @@
-import 'package:cv_mail_maker_project/pdf.dart';
+import 'package:cv_mail_maker_project/shared/components/pdf.dart';
 import 'package:cv_mail_maker_project/shared/components/components.dart';
 import 'package:cv_mail_maker_project/shared/components/constants.dart';
 import 'package:flutter/material.dart';
